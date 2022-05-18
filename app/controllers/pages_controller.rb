@@ -3,3 +3,4 @@ class PagesController < ApplicationController
         # render html: '<h1>Home Page</h1>'.html_safe
     end
 end
+
